@@ -1,2 +1,2 @@
-# yourusername.github.io-
+# DeucePhotos
 photography portfolio
